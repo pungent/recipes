@@ -1,3 +1,3 @@
 # recipes
 
-First website.
+My first website, it stores some recipes.

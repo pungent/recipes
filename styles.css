@@ -1,0 +1,51 @@
+.center {
+    border: 7px solid;
+    margin: auto;
+    width: 70%;
+    padding: 20px;
+}
+
+#blossoms {
+    display: block;
+    margin: 0 auto;
+    width: 720px;
+    height: 610px;
+}
+
+#title,
+.secondary-title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: rosybrown
+}
+
+.alternate-text,
+.steps {
+    font-family: 'Courier New', Courier, monospace;
+    color: indianred;
+}
+
+.steps {
+    text-wrap: pretty;
+}
+
+
+
+.secondary-title {
+    text-align: center;
+    background-color: oldlace;
+    color: rosybrown;
+}
+
+
+
+div {
+    text-align: center;
+    place-items: center;
+}
